@@ -1,0 +1,13 @@
+# Modelo entrenado — se regenera con: python entrenando-rf.py
+modeloLBPHFace.xml
+
+# Fotos capturadas — privadas y pesadas
+Data/
+
+# Capturas de demo (opcionales, podés quitar esta línea si las querés subir)
+# capturas/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
